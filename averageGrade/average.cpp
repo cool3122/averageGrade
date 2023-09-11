@@ -14,5 +14,5 @@ int main() {
 
 	cout << "The average grade is " << averageOfGrades << endl;
 
-	return0;
+	return 0;
 }
